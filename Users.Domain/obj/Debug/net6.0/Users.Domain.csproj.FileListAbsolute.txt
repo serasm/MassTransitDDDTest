@@ -1,0 +1,15 @@
+D:\TestProjects\MassTransitDDDTest\Users.Domain\bin\Debug\net6.0\Users.Domain.deps.json
+D:\TestProjects\MassTransitDDDTest\Users.Domain\bin\Debug\net6.0\Users.Domain.dll
+D:\TestProjects\MassTransitDDDTest\Users.Domain\bin\Debug\net6.0\Users.Domain.pdb
+D:\TestProjects\MassTransitDDDTest\Users.Domain\bin\Debug\net6.0\Domain.Shared.dll
+D:\TestProjects\MassTransitDDDTest\Users.Domain\bin\Debug\net6.0\Domain.Shared.pdb
+D:\TestProjects\MassTransitDDDTest\Users.Domain\obj\Debug\net6.0\Users.Domain.csproj.AssemblyReference.cache
+D:\TestProjects\MassTransitDDDTest\Users.Domain\obj\Debug\net6.0\Users.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestProjects\MassTransitDDDTest\Users.Domain\obj\Debug\net6.0\Users.Domain.AssemblyInfoInputs.cache
+D:\TestProjects\MassTransitDDDTest\Users.Domain\obj\Debug\net6.0\Users.Domain.AssemblyInfo.cs
+D:\TestProjects\MassTransitDDDTest\Users.Domain\obj\Debug\net6.0\Users.Domain.csproj.CoreCompileInputs.cache
+D:\TestProjects\MassTransitDDDTest\Users.Domain\obj\Debug\net6.0\Users.Domain.csproj.CopyComplete
+D:\TestProjects\MassTransitDDDTest\Users.Domain\obj\Debug\net6.0\Users.Domain.dll
+D:\TestProjects\MassTransitDDDTest\Users.Domain\obj\Debug\net6.0\refint\Users.Domain.dll
+D:\TestProjects\MassTransitDDDTest\Users.Domain\obj\Debug\net6.0\Users.Domain.pdb
+D:\TestProjects\MassTransitDDDTest\Users.Domain\obj\Debug\net6.0\ref\Users.Domain.dll
