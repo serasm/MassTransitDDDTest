@@ -37,8 +37,6 @@ namespace Users.Api
             
             services.LoadAssemblies();
 
-            services.AddValidatorsFromAssemblies(new[] { typeof(ApplicationStartup).Assembly });
-
             services.RegisterMediatorWithConsumers();
             services.RegisterMessageQueueWithoutConsumers(
                 Configuration.GetSection(RabbitMqConfiguration).Get<RabbitMqConfig>());
